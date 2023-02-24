@@ -3,6 +3,6 @@
 
 int main(void)
 {
-    sting answer = get_string 
+    sting answer = get_string("what`s is your name? ");
     printf("Hello valera\n");
 }
